@@ -1,9 +1,12 @@
-<h1>Desenvolvedor front-end</h1>
+<h1>Desenvolvedor</h1>
 
 <p>
   Apaixonado por tecnologia, adoro desafios e busco sempre me manter atualizado na stack em qual trabalho.
   <br />
+  Gosto de compartilhar conhecimento e gosto de ver outras soluçoes de codigo para resolver o problema, bora desenvolver!
 </p>
+
+
 
 <h2>Tecnologia que domino</h2>
 
