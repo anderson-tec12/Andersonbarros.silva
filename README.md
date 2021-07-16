@@ -3,7 +3,7 @@
 <p>
   Apaixonado por tecnologia, adoro desafios e busco sempre me manter atualizado na stack em qual trabalho.
   <br />
-  Gosto de compartilhar conhecimento e gosto de ver outras soluçoes de codigo para resolver o problema, bora desenvolver!
+  Gosto de compartilhar conhecimento e gosto de ver alternativas de algoritmos para resolver o problema, bora desenvolver!
 </p>
 
 
