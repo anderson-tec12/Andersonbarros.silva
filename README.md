@@ -8,7 +8,7 @@
 
 
 
-<h2>Tecnologia que domino</h2>
+<h2>Tecnologia que dominio</h2>
 
 <ul>
   <li>JAVASCRIPT</li>
