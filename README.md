@@ -1,7 +1,7 @@
 
 # Desenvolvedor
 
-Me chamo Anderson, apiaxonado por tecnologia e essa sopa de letrinha que a compem 😊.
+Me chamo Anderson, apaixonado por tecnologia.
 
 Apaixonado por linux ja passei por diversas distros até me encontrar no manjaro.
 
