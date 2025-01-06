@@ -1,10 +1,7 @@
 
 # Desenvolvedor
 
-Me chamo Anderson, apaixonado por tecnologia.
-
-Apaixonado por linux ja passei por diversas distros até me encontrar no manjaro.
-
+Apaixonado por tecnologia. e linux kkk, ja passei por diversas distros até me encontrar no manjaro.
 
 
 ## 🛠 Habilidades
